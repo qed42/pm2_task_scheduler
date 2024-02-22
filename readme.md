@@ -34,4 +34,4 @@ Feel free to fork this project and submit pull requests with improvements or rep
 ## License
 This project is open-source and available under the MIT License.
 
-# Completly written by GPT-4
+# An unnecessarily over-engineered tool written by GPT-4
